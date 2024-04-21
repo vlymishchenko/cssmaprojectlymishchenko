@@ -29,7 +29,7 @@ Usage: Execute this script to perform regression analysis and output statistical
 
 How to Run the Scripts
 
-Ensure Python and necessary libraries (Selenium, pandas, numpy, statsmodels, matplotlib) are installed.
+Ensure Python and necessary libraries (Selenium, BeautifulSoup, pandas, numpy, statsmodels, matplotlib) are installed.
 
 Clone this repository to your local machine.
 Set up the necessary WebDriver for Selenium in the main.py.
